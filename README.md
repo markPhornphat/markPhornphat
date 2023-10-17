@@ -4,7 +4,7 @@ Hi 👋 My name is Phornphat Chanthanarak
 Computer Engineering at KMUTT
 -----------------------------
 
-Currently, I'm a 3rd Years student
+Currently, I'm a 3rd Year student
 
 * 🌍  I'm based in **Bangkok, Thailand**
 * ✉️  You can contact me at [phornphat\_mark@hotmail.com](mailto:phornphat_mark@hotmail.com)
