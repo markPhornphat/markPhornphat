@@ -8,7 +8,7 @@ Currently, I'm a 3rd Year student
 
 * 🌍  I'm based in **Bangkok, Thailand**
 * ✉️  You can contact me at [phornphat\_mark@hotmail.com](mailto:phornphat_mark@hotmail.com)
-* 🧠  I'm learning **JavaScript** and **React Native**
+* 🧠  I'm practicing **JavaScript** and **React Native**
 * ⚡  I'm interested in **Coding, Hardware, Mathematics, Science, and Business.**
 
 <h3 align = "left">Languages and Tools</h3>
