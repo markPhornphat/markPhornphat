@@ -1,35 +1,39 @@
-Hi 👋 My name is Phornphat Chanthanarak
-==============================================================================================================================================
+### 👋 Hi, I'm Phornphat Chanthanarak (Mark)
 
-Computer Engineering at KMUTT
------------------------------
+🎓 **Computer Engineering @ KMUTT** – GPAX 3.73 (1st Class Honors)  
+📍 Based in **Bangkok, Thailand**
 
-Currently, I'm a 4th Year student
+---
 
-* 🌍  I'm based in **Bangkok, Thailand**
-* ✉️  You can contact me at [phornphat\_mark@hotmail.com](mailto:phornphat_mark@hotmail.com)
-* 🧠  I'm practicing **Fullstack Tools**
-* ⚡  I'm interested in **Coding, Hardware, Mathematics, Science, and Business.**
-* 🌐  Vist my Portfolio <a href="https://marklileo.vercel.app/" target="_blank"> Website <a/>
+### 💡 About Me
 
-<h3 align = "left">Languages and Tools</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,php,mysql,mongodb,linux,c,py,arduino,vscode,git"/>
-  </a>
-</p>
+- 🔧 Looking for the technologies and tools that enhance the quality of **works**
+- 💻 Skilled in React, Next.js, Flask, TypeScript, Python, and more
+- 🧠 Passionate about **Coding, Hardware, Mathematics, Science, and Business**
+- 📬 Reach me at: [phornphat_mark@hotmail.com](mailto:phornphat_mark@hotmail.com)  
+🌐 Portfolio: [marklileo.vercel.app](https://marklileo.vercel.app/)
 
-### Badges
-<a href="https://github.com/markPhornphat" align="middle">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markPhornphat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markPhornphat&layout=pie)(https://github.com/markPhornphat/github-readme-stats)" /> -->
+---
+
+### 🛠️ Languages & Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma,php,mysql,mongodb,linux,c,py,arduino,vscode,git,docker,nginx" />
 </a>
 
-<h2 align = "left">Note: Tricks & Tips</h2>
-<h3 align = "left">Way to get  more concentration by <a href="https://www.youtube.com/watch?v=yb5zpo5WDG4" > Andrew Huberman </a></h3>
-<p align="left">
-  1. Get enough sleep <br>
-  2. Take Coldwater shower before doing the work  <br>
-  3. Take Caffeine to increase your Dopamine to make you focus on your work (Take Caffeine after wake 90-120 mins)  <br>
-  4. Listen to <a href="https://www.youtube.com/watch?v=1_G60OdEzXs">Binaural sounds</a> before starting to work
-</p>
+---
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/markPhornphat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markPhornphat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
+---
+
+### 🧠 Tips for Focus (by Andrew Huberman)
+
+1. Get enough sleep  
+2. Take a cold shower before working  
+3. Take caffeine 90–120 mins after waking  
+4. Listen to [binaural beats](https://www.youtube.com/watch?v=1_G60OdEzXs) before working
