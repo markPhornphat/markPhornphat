@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Phornphat Chanthanarak (Mark)
+# 👋 Hi, I'm Phornphat Chanthanarak (Mark)
 
 🎓 **Computer Engineering @ KMUTT** – GPAX 3.73 (1st Class Honors)  
 📍 Based in **Bangkok, Thailand**
